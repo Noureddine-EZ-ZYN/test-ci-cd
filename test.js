@@ -1,2 +1,2 @@
-console.log("Tests réussis !");
-process.exit(0); // Succès
+console.log("Échec des tests");
+process.exit(1);
